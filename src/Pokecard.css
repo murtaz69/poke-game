@@ -1,0 +1,17 @@
+.Pokecard {
+  width: 250px;
+  padding: 3px;
+  margin: 25px;
+  -webkit-box-shadow: 10px 0 0 #e45050, 20px 0 0 rgb(224, 2, 2),
+    30px 0 0 #4eec04, 0 10px 0 #f0f0f0, 10px 10px 0 #000, 20px 10px 0 #f0f0f0,
+    30px 10px 0 #000, 0 20px 0 #000, 10px 20px 0 #f0f0f0, 20px 20px 0 #000,
+    30px 20px 0 #f0f0f0, 0 30px 0 #f0f0f0, 10px 30px 0 #000, 20px 30px 0 #f0f0f0,
+    30px 30px 0 #000, 5px -1px 15px 11px rgba(0, 0, 0, 0);
+  box-shadow: 10px 0 0 #f0f0f0, 20px 0 0 #000, 30px 0 0 #f0f0f0,
+    0 10px 0 #f0f0f0, 10px 10px 0 #000, 20px 10px 0 #f0f0f0, 30px 10px 0 #000,
+    0 20px 0 #000, 10px 20px 0 #f0f0f0, 20px 20px 0 #000, 30px 20px 0 #f0f0f0,
+    0 30px 0 #f0f0f0, 10px 30px 0 #000, 20px 30px 0 #f0f0f0, 30px 30px 0 #000,
+    5px -1px 15px 11px rgba(0, 0, 0, 0);
+  background-color: rgb(238, 195, 52);
+  border-radius: 1px;
+}
